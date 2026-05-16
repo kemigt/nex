@@ -5,7 +5,7 @@ export default function App() {
     <div className="font-sans text-gray-800">
 
       <section className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white text-center py-16 px-4">
-        <h1 className="text-4xl font-bold mb-4">KEMI SHOP</h1>
+        <h1 className="text-4xl font-bold mb-4">NEX SHOP</h1>
         <p className="text-lg mb-6">
           Tu tienda online en Guatemala. Compra fácil y recibe en tu casa 🚚
         </p>
@@ -45,14 +45,14 @@ export default function App() {
         <h2 className="text-2xl font-bold mb-4">
           Muy pronto disponible en toda Guatemala 🇬🇹
         </h2>
-        <p className="mb-6">Prepárate para comprar desde casa con KEMI SHOP</p>
+        <p className="mb-6">Prepárate para comprar desde casa con NEX SHOP</p>
         <button className="bg-indigo-600 text-white px-6 py-3 rounded-lg">
           Notificarme
         </button>
       </section>
 
       <footer className="bg-black text-white text-center py-6">
-        <p>© 2026 KEMI SHOP</p>
+        <p>© 2026 NEX SHOP</p>
       </footer>
 
     </div>
